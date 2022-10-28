@@ -1,6 +1,6 @@
 class Ternary:
     def __init__(self, num):
-        self.num = num
+        self.num = num #kekw
 
     def __add__ (self, other):
         self.other = other
